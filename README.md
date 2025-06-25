@@ -12,7 +12,7 @@ DOMAIN: FULL STACK WEB DEVELOPMENT
 
 DURATION: 4 WEEKS
 
-MENTOR: NEELA SANTOSH
+MENTOR: NEELA SANTOSH KUMAR
 
 DESCRIPTION: A weather information website is a practical web application that displays current and forecasted weather conditions by integrating with public weather APIs. The implementation requires careful planning of frontend components and API integration strategies.
 
